@@ -28,7 +28,7 @@ plugins:
 #  - mkdocs-video
   - mkdocs-pdf
   - search:
-      lang: ja
+      lang: zh
       separator: '[\s\-\.]+'
       min_search_length: 2
 
@@ -45,7 +45,7 @@ nav:
 - 六、规划: '#planning'
 - 七、发育: '#development'
 - 八、学习: '#learning'
-- 九、疾病: '#desease'
+- 九、疾病: '#disease'
 
 
 
@@ -54,4 +54,4 @@ nav:
 markdown_extensions:
   - admonition
   - attr_list
-  # - mdx_math
+  - mdx_math
