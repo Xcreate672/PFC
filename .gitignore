@@ -20,7 +20,7 @@ elegant*-en.pdf
 *.dvi
 *.xdv
 *-converted-to.*
-# these rules might exclude image files for figures etc.
+# These rules might exclude image files for figures, etc.
 # *.ps
 # *.eps
 # *.pdf
@@ -232,7 +232,7 @@ TSWLatexianTemp*
 # KBibTeX
 *~[0-9]*
 
-# auto folder when using emacs and auctex
+# Auto folder when using Emacs and AUCTeX
 ./auto/*
 *.el
 
